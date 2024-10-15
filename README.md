@@ -1,1 +1,1 @@
-### Jak simulátor spustit?
+### Vyzkoušení simulátoru
