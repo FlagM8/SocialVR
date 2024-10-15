@@ -1,0 +1,1 @@
+### Jak simulátor spustit?
